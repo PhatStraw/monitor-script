@@ -1,3 +1,4 @@
 .env
 token.json
 output.json
+node_modules
